@@ -8,3 +8,9 @@ Mais ce *vendeur* ne lache pas l'affaire.
 Il est plus que motivé, les **erreurs** de commandes ne le font pas peur.
 
 Un jour il deviendra *un grand developpeur web*
+
+Tellement *grand* qu'il dépassera aisément les 2 mètres de haut.
+
+Il aura du mal à passer les **portes** et à monter dans sa **voiture**.
+
+Alors il se dit qu'il ferait mieux de s'acheter une *trottinette électrique* !
