@@ -1,11 +1,14 @@
 # Il était une fois
-Il était une fois un *vendeur* qui voulais changer de carrière.
-Comme il était intéressé par le code il a décidé de devenir *développeur web*!
+
+Il était une fois un *vendeur* qui voulait changer de carrière.
+
+Comme il était _très intéressé_ par le code il a décidé de devenir *développeur web*!
+
 Mais pour l'instant il **galère encore** à apprendre à utiliser git.
 
-Mais ce *vendeur* ne lache pas l'affaire.
+Mais ce *vendeur* ne lâche pas l'affaire.
 
-Il est plus que motivé, les **erreurs** de commandes ne le font pas peur.
+Il est plus que motivé, les **erreurs** de commandes ne lui font pas peur.
 
 Un jour il deviendra *un grand developpeur web*
 
@@ -15,13 +18,12 @@ Il aura du mal à passer les **portes** et à monter dans sa **voiture**.
 
 Alors il se dit qu'il ferait mieux de s'acheter une *trottinette électrique* !
 
-Lorsqu'il essaya de push un beau **message d'erreur** apparu.
+Lorsqu'il essaya de push, un beau **message d'erreur** apparu.
 
 ![Error push](https://i.ytimg.com/vi/Mn5FEtmInF8/maxresdefault.jpg)
 
-Mais il ne panique pas et trouve la solution rapidement.
+Mais il ne paniqua pas et trouva la solution rapidement.
 
-Il lança le pc par la fenêtre et ce dit que finalement sa
-d'avant n'était pas si mal que ça. C'est ce qui aurait pu
-arriver sauf q'il a trouvé la solution seul comme un
-grand et devena *developper web*
+Il lança le pc par la fenêtre et se dit que finalement sa vie d'avant n'était pas si mal que ça.
+
+_C'est ce qui aurait pu arriver_ sauf qu'il a trouvé la solution seul, comme un grand, et devint *developper web*.
