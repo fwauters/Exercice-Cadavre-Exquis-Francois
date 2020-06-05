@@ -20,3 +20,8 @@ Lorsqu'il essaya de push un beau **message d'erreur** apparu.
 ![Error push](https://i.ytimg.com/vi/Mn5FEtmInF8/maxresdefault.jpg)
 
 Mais il ne panique pas et trouve la solution rapidement.
+
+Il lança le pc par la fenêtre et ce dit que finalement sa
+d'avant n'était pas si mal que ça. C'est ce qui aurait pu
+arriver sauf q'il a trouvé la solution seul comme un
+grand et devena *developper web*
